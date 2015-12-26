@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9452EDAF1C2E4013008ABF4C"
+               BlueprintIdentifier = "94DF6E351C2E4B9C00D07811"
                BuildableName = "Calculator.app"
                BlueprintName = "Calculator"
                ReferencedContainer = "container:Calculator.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9452EDC31C2E4014008ABF4C"
+               BlueprintIdentifier = "94DF6E491C2E4B9C00D07811"
                BuildableName = "CalculatorTests.xctest"
                BlueprintName = "CalculatorTests"
                ReferencedContainer = "container:Calculator.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9452EDCE1C2E4014008ABF4C"
+               BlueprintIdentifier = "94DF6E541C2E4B9C00D07811"
                BuildableName = "CalculatorUITests.xctest"
                BlueprintName = "CalculatorUITests"
                ReferencedContainer = "container:Calculator.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9452EDAF1C2E4013008ABF4C"
+            BlueprintIdentifier = "94DF6E351C2E4B9C00D07811"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9452EDAF1C2E4013008ABF4C"
+            BlueprintIdentifier = "94DF6E351C2E4B9C00D07811"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9452EDAF1C2E4013008ABF4C"
+            BlueprintIdentifier = "94DF6E351C2E4B9C00D07811"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
